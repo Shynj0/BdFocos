@@ -1,5 +1,5 @@
 // src/app.ts
-import fetchFocosDeCalor from './dataFetcher';
+import { fetchFocosDeCalor } from './dataFetcher';
 
 async function main() {
     try {
